@@ -8,8 +8,6 @@ This project is a full stack e-commerce website built with Next js. I created th
 
 - Build out the project to the designs provided
 - Implementing cart functionality 
-- Connecting to Sanity as back end database for e-commerce
-- Connecting Stripe APIs to power online payment processing for e-commerce
 
 ### Links
 The live site is deployed in vercel, but it seems that vercel can't render swiper js. In the meantime i'm still trying to find a solution
